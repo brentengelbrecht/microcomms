@@ -19,5 +19,6 @@ public class RestClientApplication implements CommandLineRunner {
 		WebClient client = WebClient.create("http://localhost:8080");
 		Mono<String> response = client.get().uri("/test").retrieve().bodyToMono(String.class);
 		System.out.println("RESPONSE: " + response.block());
+		System.out.println(" *** After the web call returns");
 	}
 }
