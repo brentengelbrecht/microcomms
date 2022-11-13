@@ -1,8 +1,0 @@
-/home/brent/Projects/microcomms/grpc-server/src/main/java/com/example/grpc/server/Application.java
-/home/brent/Projects/microcomms/grpc-server/target/generated-sources/protobuf/grpc-java/com/example/grpc/HelloServiceGrpc.java
-/home/brent/Projects/microcomms/grpc-server/target/generated-sources/protobuf/java/com/example/grpc/HelloRequestOrBuilder.java
-/home/brent/Projects/microcomms/grpc-server/target/generated-sources/protobuf/java/com/example/grpc/HelloResponseOrBuilder.java
-/home/brent/Projects/microcomms/grpc-server/target/generated-sources/protobuf/java/com/example/grpc/HelloResponse.java
-/home/brent/Projects/microcomms/grpc-server/target/generated-sources/protobuf/java/com/example/grpc/HelloRequest.java
-/home/brent/Projects/microcomms/grpc-server/src/main/java/com/example/grpc/server/service/HelloServiceImpl.java
-/home/brent/Projects/microcomms/grpc-server/target/generated-sources/protobuf/java/com/example/grpc/HelloServiceOuterClass.java
