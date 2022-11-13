@@ -49,7 +49,7 @@ public class Application {
             }
         });
 
-        Thread.sleep(1000L);
+        Thread.sleep(500L);
         channel.shutdown();
     }
 
