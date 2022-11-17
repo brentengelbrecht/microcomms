@@ -1,0 +1,6 @@
+kafka:
+  bootstrapPort: 9092
+  bootstrapServer: 192.168.0.46
+  groupId: test-consumer-group
+  key: my-key
+  topic: MightyDucks
